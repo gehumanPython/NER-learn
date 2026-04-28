@@ -1,0 +1,10 @@
+spacy>=3.5,<4.0
+jupyter>=1.0
+ipywidgets>=8.0
+transformers>=4.30
+datasets>=2.14
+torch>=2.0
+seqeval>=1.2
+scikit-learn>=1.2
+pandas>=2.0
+matplotlib>=3.7
